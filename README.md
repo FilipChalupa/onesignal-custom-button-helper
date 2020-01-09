@@ -1,12 +1,14 @@
 # OneSignal custom button helper
 
+Do you like the default OneSignal bell icon? You don't? Are `promptyOptions.customLink` options too limiting for you. Build your own subscribe button with `onesignal-custom-button-helper`.
+
 ## Installation
 
 `npm install --save onesignal-custom-button-helper`
 
 ## Usage
 
-Follow OneSignal documentation to init OneSignal SDK. Hide default subscribe button provided by OneSignal by setting.
+Follow [OneSignal documentation](https://documentation.onesignal.com/docs/web-push-custom-code-setup) to init OneSignal SDK and add OneSignal service worker. Hide default subscribe button provided by OneSignal by setting `notifyButton.enable` to `false`.
 
 ### Javascript (OneSignal SDK initialization)
 

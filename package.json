@@ -1,6 +1,6 @@
 {
 	"name": "onesignal-custom-button-helper",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Subscribe to OneSignal push notifications made easier.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
